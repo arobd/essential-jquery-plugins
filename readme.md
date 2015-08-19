@@ -81,7 +81,7 @@ blurred elements over other elements
 [Orbit](https://github.com/zurb/orbit): Another beautiful slider plugin from Zurb  
 [Superslider](https://github.com/nicinabox/superslides): A fullscreen, hardware accelerated slider for jQuery  
 [SliderJS](http://www.slidesjs.com/): SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.   
-[GlideJS](http://jedrzejchalubek.com/glide/): Responsive, lightweight and touch friendly slider that works in every device
+[GlideJS](http://jedrzejchalubek.com/glide/): Responsive, lightweight and touch friendly slider that works in every device  
 [bxSlider](https://github.com/stevenwanderski/bxslider-4): The fully-loaded, responsive jQuery content slider
 
 ###Sound & Audio
